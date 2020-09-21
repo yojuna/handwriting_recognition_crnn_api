@@ -21,3 +21,6 @@ detailed installation instructions to be uploaded.
 ```sh
 detailed usage instructions to be uploaded.
 ```
+## NOTE
+
+Inspired by this notebook [https://www.kaggle.com/samfc10/handwriting-recognition-using-crnn-in-keras] by Jebastin Nadar [https://www.kaggle.com/samfc10]
